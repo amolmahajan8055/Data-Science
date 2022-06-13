@@ -1,2 +1,1 @@
-# amol-mahajan
-data science
+
